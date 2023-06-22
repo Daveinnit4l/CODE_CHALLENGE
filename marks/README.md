@@ -1,5 +1,6 @@
 **INTRODUCTION**
-![Screenshot from 2023-06-01 14-04-49](https://github.com/Daveinnit4l/CODE_CHALLENGE/assets/125547881/8e1616d5-2a6e-43fd-b85e-c1cd7865c39b)
+![Screenshot from 2023-06-22 10-26-55](https://github.com/Daveinnit4l/CODE_CHALLENGE/assets/125547881/e3d56641-a3e0-40f2-b2a9-b5aeec7b8f03)
+
 Function StudentGradeGenerator ()-it is used to generate the grades of students by promting the user to input the marks of the student.
 if(isNaN (studentMarks>=0) ||(studentmarks<=100))-this if statement simply tells the systen to only accept input values between zero to a hundred
 {
